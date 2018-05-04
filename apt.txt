@@ -1,0 +1,10 @@
+build-essential
+libatomic1
+gfortran
+perl
+wget
+m4
+cmake
+pkg-config
+libedit-dev
+libncurses5-dev
